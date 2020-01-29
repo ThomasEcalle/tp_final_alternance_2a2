@@ -1,3 +1,4 @@
+> Oui on s'entraine :)))
 # Faux partiel de Git
 Entrainement pour la partie TP du partiel de Git
 
