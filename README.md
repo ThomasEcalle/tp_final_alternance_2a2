@@ -11,5 +11,5 @@ Nom des participants
  - Boudacher Sylvain
  - Saadan Dora
 
-# Crédits
+## Crédits
 Partiel et TP organisé par Thomas Ecalle professeur à l'ESGI
